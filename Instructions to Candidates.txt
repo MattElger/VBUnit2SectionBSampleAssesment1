@@ -1,0 +1,3 @@
+# INSTRUCTIONS TO CANDIDATES:
+# Read through the code and familiarise yourself with its processes.
+# Complete the misisng and broken lines below. ( . . . indicates missing or broken code )
